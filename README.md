@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Python LLM Resume & Portfolio Builder
 
 An AICTE internship-ready full-stack project that uses a Python backend and LLM APIs to generate a tailored resume, cover letter and portfolio page from one student profile form.
@@ -113,3 +114,6 @@ Real API keys are not stored in frontend code. They are read from `.env` locally
 ## Project Impact
 
 The project supports students who need professional career documents but may not know how to write them. It makes resume creation faster, more personalized and easier to align with internship descriptions while demonstrating Python backend development and LLM integration.
+=======
+# AICTE-B1
+>>>>>>> 81cb94c12bd92621215e1e00af973bf5bab12c15
